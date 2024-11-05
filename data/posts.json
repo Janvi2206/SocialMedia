@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Insta",
+    "content": "I am not there",
+    "author": "Anaya",
+    "likes": 1,
+    "dislikes": 0,
+    "likedBy": [
+      "Janvi"
+    ],
+    "dislikedBy": []
+  }
+]

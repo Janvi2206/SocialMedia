@@ -1,0 +1,46 @@
+[
+  {
+    "username": "Neha",
+    "email": "neha1204@gmail.com",
+    "password": "$2b$10$c2z8Fa11ztqX7A/c5WXF4uoGmvoLL3.qpy0aU3OUChzkyn9jIe1vW",
+    "role": "registered",
+    "isPrivate": true,
+    "followers": [],
+    "following": []
+  },
+  {
+    "username": "Janvi",
+    "email": "tjanvi2206@gmail.com",
+    "password": "$2b$10$dF6dN/HBsUWi09EKpUE9seAR3wIvZIhadBsWgd0HB3VByGMBk5J6u",
+    "role": "registered",
+    "isPrivate": true,
+    "followers": [
+      "Anaya"
+    ],
+    "following": [
+      "Anaya"
+    ]
+  },
+  {
+    "username": "Anaya",
+    "email": "anaya1107@gmail.com",
+    "password": "$2b$10$oRw6EraeMiRfnB/T.o2KlOGbeO.2dvh5YlssbyQv667Fgg/FRYTRK",
+    "role": "registered",
+    "isPrivate": false,
+    "followers": [
+      "Janvi"
+    ],
+    "following": [
+      "Janvi"
+    ]
+  },
+  {
+    "username": "Kavya",
+    "email": "kavya1411@gmail.com",
+    "password": "$2b$10$zmzhM0k/g58gOqBAI/zMv.woCAQgrGLGj/ByzJnYJKhnavzThDEFK",
+    "role": "registered",
+    "isPrivate": false,
+    "followers": [],
+    "following": []
+  }
+]
